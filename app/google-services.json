@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "216765630042",
+    "firebase_url": "https://nschatapp-a3690.firebaseio.com",
+    "project_id": "nschatapp-a3690",
+    "storage_bucket": "nschatapp-a3690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216765630042:android:a1c485510553b45e",
+        "android_client_info": {
+          "package_name": "com.example.enesi.nschatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216765630042-ha3kmavuogb32m1275n756smbee58nr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enesi.nschatapp",
+            "certificate_hash": "2fc05cc6074fd394722aa6936891bdeb9c3be0d0"
+          }
+        },
+        {
+          "client_id": "216765630042-5co3vkp891pj4p6pjdk6fn5elhg5295i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbVILJXQ5Gcmib6B929uFk1a_MdGl8uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216765630042-5co3vkp891pj4p6pjdk6fn5elhg5295i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

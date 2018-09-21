@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NsChat</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+    <string name="already_have_account">ALREADY HAVE ACCOUNT</string>
+    <string name="your_email">Your Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kayit_ol">KAYIT OL</string>
+    <string name="g_r_yap">GİRİŞ YAP</string>
+    <string name="kullan_c_ad">Kullanıcı Adı</string>
+    <string name="hesap_olu_tur">HESAP OLUŞTUR</string>
+    <string name="k_yap">Çıkış Yap</string>
+    <string name="t_m_kullan_c_lar">Tüm Kullanıcılar</string>
+</resources>
